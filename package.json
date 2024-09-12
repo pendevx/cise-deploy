@@ -1,0 +1,9 @@
+{
+    "name": "speed-app",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "fe": "cd frontend && npm run dev",
+        "be": "cd backend && npm run dev"
+    }
+}
